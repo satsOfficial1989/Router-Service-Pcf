@@ -1,0 +1,7 @@
+logging:
+  level:
+    org:
+      cloudfoundry:
+        example: DEBUG
+server:
+  port: 9090
